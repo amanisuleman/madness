@@ -13,8 +13,8 @@ TASK 1
 git clone https://github.com/amanisuleman/madness.git
 ```
 
-5. Add notes to README.md file
-6. Commit and push changes to GitHub
+3. Add notes to README.md file
+4. Commit and push changes to GitHub
 
 ```
 git add .
