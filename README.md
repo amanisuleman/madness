@@ -13,8 +13,8 @@ TASK 1
 git clone https://github.com/amanisuleman/madness.git
 ```
 
-3. Add notes to README.md file
-4. Commit and push changes to GitHub
+5. Add notes to README.md file
+6. Commit and push changes to GitHub
 
 ```
 git add .
@@ -46,4 +46,14 @@ git push origin amani
 ```
 git checkout main
 git branch -d amani
+```
+
+EXTRA :
+
+Created new branch and deleted locally and remotely
+
+```
+git checkout -b suleman
+git push origin suleman
+git push -d origin suleman
 ```
